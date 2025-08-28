@@ -12,7 +12,8 @@ git이란 BitKeeper 유료화에 반대한 리누스 토발즈에 의해 처음 
 >                 프로젝트 파일을 저장하는 디렉토리**를 GIt에서는 저장소라고 함
 >                 
 >                 > **local repository는 개발 pc의 저장소**이고, **remote repository는 서버에 있는 저장소**
->                 > **locla repository를 local remote repository를 origin**이라는 별칭을 사용함  모든 contributor 의 파일과 버전이 서버 remote repo 에 있기 때문에
+>                 > **locla repository를 local remote repository를 origin**이라는 별칭을 사용함
+>                 > 모든 contributor 의 파일과 버전이 서버 remote repo 에 있기 때문에
 >                 > remote가 origin
 > 
 > 
