@@ -74,7 +74,7 @@ user@DESKTOP-0Q6N3MM MINGW64 ~/Desktop/project (master)
 $ git config user.email
 eunhyeogjeong3@gmail.com
 ```
-
+ls -al 하면 상위 디렉토리 볼 수 있음
 
 --------------------------------------------------------------------------------------------------
 # 2025-
