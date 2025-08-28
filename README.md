@@ -54,7 +54,25 @@ https://git-scm.com/downloads/win
 > 1. 프로젝트 폴더 생성하고 vscode에서 폴더 선택
 > 2. vscode 명령창에서 \> terminal로 git bash 터미널 실행
 > 3. git bash에서 git init
+`log`
+```
+$ git init
+Initialized empty Git repository in C:/Users/user/Desktop/project/.git/
 
+user@DESKTOP-0Q6N3MM MINGW64 ~/Desktop/project (master)
+$ git config user.name dognexon
+
+user@DESKTOP-0Q6N3MM MINGW64 ~/Desktop/project (master)
+$ git config user.email eunhyeogjeong3@gmail.com
+
+user@DESKTOP-0Q6N3MM MINGW64 ~/Desktop/project (master)
+$ git config user.name
+dognexon
+
+user@DESKTOP-0Q6N3MM MINGW64 ~/Desktop/project (master)
+$ git config user.email
+eunhyeogjeong3@gmail.com
+```
 
 
 --------------------------------------------------------------------------------------------------
