@@ -9,6 +9,7 @@ git이란 BitKeeper 유료화에 반대한 리누스 토발즈에 의해 처음 
 
 ### 용어
 > - **Repository** :
+>   
 >   directory 또는 folder는
 >   **파일을 모아두는 곳 프로젝트 파일을 저장하는 디렉토리**를 GIt에서는 저장소라고 함
 >   **local repository는 개발 pc의 저장소**이고, **remote repository는 서버에 있는 저장소**
